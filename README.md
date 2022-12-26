@@ -20,4 +20,5 @@ You guessed it! You win!
 
 
 <strong>Note</strong>
+
 This guessing game is intended as a simple example of how to use Python to generate random numbers and accept user input. It does not have any additional features or error handling.
